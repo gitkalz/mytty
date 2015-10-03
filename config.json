@@ -6,7 +6,7 @@
   "limitPerUser": 1000,
   "localOnly": false,
   "cwd": "~",
-  "syncSession": false,
+  "syncSession": true,
   "sessionTimeout": 600000,
   "log": true,
   "io": { "log": false },
@@ -18,7 +18,7 @@
     "visualBell": true,
     "popOnBell": true,
     "cursorBlink": true,
-    "screenKeys": false,
+    "screenKeys": true,
     "colors": [
       "#2e3436",
       "#cc0000",
