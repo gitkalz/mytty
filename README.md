@@ -10,6 +10,7 @@ Check out the [terminal recording](https://asciinema.org/a/4qktrmlwxbhdl87vizno3
 <script type="text/javascript" src="https://asciinema.org/a/4qktrmlwxbhdl87vizno30ei1.js" id="asciicast-4qktrmlwxbhdl87vizno30ei1" async></script>
 </div>
 
+Alternatively, you may readily use my automated image linked to my Git Repo from Docker hub as follows
 
 1. Make sure you have docker installed and running `docker version`
 2. `docker pull kalz/zsh_tty` to pull the image from docker hub
