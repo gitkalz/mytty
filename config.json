@@ -15,9 +15,9 @@
     "termName": "xterm-256color",
     "geometry": [80, 24],
     "scrollback": 10000,
-    "visualBell": false,
+    "visualBell": true,
     "popOnBell": false,
-    "cursorBlink": true,
+    "cursorBlink": false,
     "screenKeys": true,
     "colors": [
       "#2e3436",
