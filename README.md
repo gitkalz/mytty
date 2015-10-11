@@ -1,7 +1,7 @@
 Docker Image repo for Javascript based Unix Terminal/Console which you can access from a web browser on your preferred port. Built on Node.JS and [TTY.JS](https://github.com/chjj/tty.js/) from respective authors. Packaged with ZSH and Prezto for awesomeness!!
 
 <div align="center">
-<img src=http://i.imgur.com/laD3d5f.png width=500/>
+<img src=http://i.imgur.com/laD3d5f.png width=800/>
 </div>
 
 Check out the [terminal recording](https://asciinema.org/a/4qktrmlwxbhdl87vizno30ei1) to glance on how to build from my repo as is.
