@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:4
 # FROM node:0.10 # uncomment if build errors found with latest node image
 MAINTAINER Kalyan Chakravarthi "kalyan.chakravarthi@live.com"
 LABEL Description="This image is packaged to run TTY.JS with ZSH and Prezto customizations." Vendor="Enthusiast" Version="0.0.1"
